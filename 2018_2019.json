@@ -1,0 +1,201 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Histology",
+    "code": "MDS 220.1",
+    "session": "2018/2019",
+    "topics": ["Anatomy", "Physiology", "Vertebrates", "Histology", "Circulatory System", "Definitions", "Development", "Skeleton", "Excretion", "Digestive System"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Anatomy",
+      "Physiology",
+      "Vertebrates"
+    ],
+    "Question": {
+      "content": "Distinguish the three kinds of cartilage with regards to its type of collagen and locations.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hyaline Cartilage, Elastic Cartilage, Fibrocartilage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distinguishing the Three Kinds of Cartilage</h4>\n <p>The three types of cartilage are distinguished by the type of collagen fibers in their matrix and their specific locations in the body.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Hyaline Cartilage</strong><br>\n <strong>Collagen Type:</strong> Mainly Type II collagen.<br>\n <strong>Locations:</strong> This is the most common type. It is found in the articular surfaces of joints (covering the ends of bones), the costal cartilages (connecting ribs to the sternum), the respiratory tract (nose, trachea, larynx, and bronchi), and the fetal skeleton (temporary model for endochondral ossification).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Elastic Cartilage</strong><br>\n <strong>Collagen Type:</strong> Type II collagen <em>plus</em> a dense network of elastic fibers (elastin).<br>\n <strong>Locations:</strong> Found where flexibility and shape maintenance are required. Key locations include the external ear (auricle/pinna), the epiglottis, and the auditory (Eustachian) tubes.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Fibrocartilage</strong><br>\n <strong>Collagen Type:</strong> Predominantly Type I collagen, arranged in thick, parallel bundles, giving it great tensile strength.<br>\n <strong>Locations:</strong> Found where great resistance to compression and shear forces is needed. This includes the intervertebral discs, the pubic symphysis, and the menisci (cartilage pads) of the knee joint.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Anatomy",
+      "Physiology",
+      "Histology"
+    ],
+    "Question": {
+      "content": "How would you distinguish a fibroblast, macrophage and mast cell under the light microscope?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fibroblast: spindle-shaped, pale nucleus; Macrophage: oval/kidney-shaped nucleus, foamy cytoplasm; Mast cell: round, densely packed cytoplasmic granules."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distinguishing Fibroblasts, Macrophages, and Mast Cells</h4>\n <p>Under a light microscope, these three connective tissue cells can be distinguished by their shape, nucleus, and cytoplasmic features.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Fibroblast</strong><br>\n <strong>Appearance:</strong> These are the most common cells. They are usually elongated or spindle-shaped with a branched cytoplasm. They have an oval, pale-staining nucleus with fine chromatin and one or two prominent nucleoli. Their cytoplasmic boundaries are often indistinct, blending with the extracellular matrix.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Macrophage</strong><br>\n <strong>Appearance:</strong> They are larger and more variable in shape (oval, round, or irregular). Their nucleus is often eccentric and kidney-shaped or indented, which is a key distinguishing feature. The cytoplasm is often described as \"foamy\" or vacuolated due to the presence of phagocytosed material and lysosomes.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mast Cell</strong><br>\n <strong>Appearance:</strong> These are oval or round cells with a small, central, spherical nucleus that is often obscured. The most characteristic feature is their cytoplasm, which is densely packed with large, prominent, purple/blue-staining granules (metachromatic granules) that often obscure the nucleus. These granules contain histamine and heparin.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1c",
+    "topic": [
+      "Anatomy",
+      "Physiology",
+      "Circulatory System",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the histological difference between blood, plasma and serum?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blood: cells + plasma; Plasma: liquid portion with clotting factors; Serum: plasma minus clotting factors."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Histological Difference Between Blood, Plasma, and Serum</h4>\n <p>The key histological difference lies in the presence or absence of cellular components and clotting factors.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Blood</strong><br>\n <strong>Composition:</strong> Blood is a specialized connective tissue consisting of two main components: 1) Formed elements (cells and cell fragments) and 2) a liquid extracellular matrix called plasma. Under the microscope, you would see red blood cells (erythrocytes), white blood cells (leukocytes), and platelets (thrombocytes) suspended in the plasma.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Plasma</strong><br>\n <strong>Composition:</strong> Plasma is the straw-colored, liquid matrix of blood. Histologically, it is an acellular fluid. It is composed of about 92% water and 8% dissolved proteins (such as fibrinogen, albumin, and globulins), electrolytes, nutrients, and wastes. A key point is that plasma <strong>contains clotting factors</strong> (like fibrinogen).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Serum</strong><br>\n <strong>Composition:</strong> Serum is essentially plasma from which the clotting factors (specifically fibrinogen) have been removed. It is the liquid that remains after blood has clotted. Therefore, while it still contains water, electrolytes, antibodies, and other proteins, it <strong>lacks fibrinogen</strong> and other clotting factors. Histologically, it is also an acellular fluid.\n </div>\n <p><strong>In summary:</strong> Blood = cells + plasma; Plasma = acellular fluid + clotting factors; Serum = acellular fluid – clotting factors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Anatomy",
+      "Physiology",
+      "Development",
+      "Skeleton",
+      "Vertebrates"
+    ],
+    "Question": {
+      "content": "With the aid of a diagram(s), describe the histological stages of Endochondral Ossification.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Endochondral ossification is the process of replacing a hyaline cartilage model with bone, involving zones of resting, proliferation, hypertrophy, calcification, and ossification."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Histological Stages of Endochondral Ossification</h4>\n <p>Endochondral ossification is the process by which bone tissue replaces a hyaline cartilage model. It is how most bones in the body (like long bones) are formed. The process occurs in a specific sequence, which can be observed histologically at the epiphyseal plate (growth plate) of a growing bone.</p>\n <div style='text-align: center; margin: 20px 0; background: var(--preset-bg-color); padding: 10px; border-radius: 8px;'>\n    <strong style='color: var(--strongColor);'>Diagram: Zones of the Epiphyseal Plate</strong><br>\n    <svg width=\"300\" height=\"220\" viewBox=\"0 0 300 220\" style=\"display: block; margin: 10px auto; background: var(--preset-bg-color);\">\n        <text x=\"140\" y=\"20\" fill=\"var(--bodyTextColor)\">Epiphysis (bone)</text>\n        <rect x=\"120\" y=\"30\" width=\"40\" height=\"170\" fill=\"#d3d3d3\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <line x1=\"100\" y1=\"45\" x2=\"120\" y2=\"45\" stroke=\"var(--strongColor)\" stroke-dasharray=\"4\"/>\n        <text x=\"30\" y=\"50\" fill=\"var(--bodyTextColor)\">1. Resting Zone</text>\n        <line x1=\"100\" y1=\"70\" x2=\"120\" y2=\"70\" stroke=\"var(--strongColor)\" stroke-dasharray=\"4\"/>\n        <text x=\"30\" y=\"75\" fill=\"var(--bodyTextColor)\">2. Proliferation Zone</text>\n        <line x1=\"100\" y1=\"100\" x2=\"120\" y2=\"100\" stroke=\"var(--strongColor)\" stroke-dasharray=\"4\"/>\n        <text x=\"30\" y=\"105\" fill=\"var(--bodyTextColor)\">3. Hypertrophic Zone</text>\n        <line x1=\"100\" y1=\"130\" x2=\"120\" y2=\"130\" stroke=\"var(--strongColor)\" stroke-dasharray=\"4\"/>\n        <text x=\"30\" y=\"135\" fill=\"var(--bodyTextColor)\">4. Calcification Zone</text>\n        <line x1=\"100\" y1=\"165\" x2=\"120\" y2=\"165\" stroke=\"var(--strongColor)\" stroke-dasharray=\"4\"/>\n        <text x=\"30\" y=\"170\" fill=\"var(--bodyTextColor)\">5. Ossification Zone</text>\n        <text x=\"140\" y=\"210\" fill=\"var(--bodyTextColor)\">Diaphysis (bone)</text>\n    </svg>\n    <em style='color: var(--infoCl);'>Schematic diagram of a growth plate showing the five zones.</em>\n </div>\n\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Zone of Resting Cartilage</strong><br>\n This is the zone closest to the epiphysis. It contains typical, resting hyaline cartilage. The chondrocytes are small, scattered, and inactive. This zone anchors the epiphyseal plate to the bone of the epiphysis.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Zone of Proliferation</strong><br>\n Chondrocytes undergo rapid mitotic division. They line up in rows or columns (like stacks of coins) parallel to the long axis of the bone. This zone is responsible for longitudinal growth.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Zone of Hypertrophy</strong><br>\n Chondrocytes stop dividing and greatly enlarge (become hypertrophic). They accumulate glycogen and lipids, and the lacunae (the spaces they sit in) expand. The surrounding cartilage matrix is reduced to thin septa.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Zone of Calcification</strong><br>\n The enlarged chondrocytes undergo apoptosis (programmed cell death). The surrounding cartilage matrix becomes calcified with calcium phosphate. This calcified matrix is toxic to chondrocytes, causing them to die. Blood vessels from the diaphysis invade these spaces.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>5. Zone of Ossification</strong><br>\n Osteoprogenitor cells brought in by the invading blood vessels differentiate into osteoblasts. These osteoblasts settle on the spicules of calcified cartilage and begin to lay down bone matrix (osteoid), forming primary spongy bone. The cartilage is now replaced by bone tissue.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1a",
+    "topic": [
+      "Anatomy",
+      "Physiology",
+      "Excretion",
+      "Histology"
+    ],
+    "Question": {
+      "content": "Describe the epithelial types of the renal tubule.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proximal convoluted tubule: simple cuboidal with brush border; Loop of Henle: simple squamous (thin) and simple cuboidal (thick); Distal convoluted tubule: simple cuboidal without brush border."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Epithelial Types of the Renal Tubule</h4>\n <p>The renal tubule is a continuous structure, but its epithelium changes along its length, reflecting the different functions of each segment.</p>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Proximal Convoluted Tubule (PCT)</strong><br>\n <strong>Epithelium:</strong> Simple cuboidal epithelium.<br>\n <strong>Distinguishing Features:</strong> The cells have a prominent <strong>brush border</strong> (microvilli) on their apical surface, which greatly increases surface area for reabsorption. The cytoplasm is eosinophilic (stains pink) due to abundant mitochondria for active transport. The nuclei are round and basal.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Loop of Henle</strong><br>\n <strong>Thin Descending and Ascending Limbs:</strong> Simple squamous epithelium. This thinness allows for passive diffusion of water and ions.<br>\n <strong>Thick Ascending Limb:</strong> Simple cuboidal to low columnar epithelium. These cells have more mitochondria and are involved in active transport of ions.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Distal Convoluted Tubule (DCT)</strong><br>\n <strong>Epithelium:</strong> Simple cuboidal epithelium.<br>\n <strong>Distinguishing Features:</strong> Compared to the PCT, the cells are smaller and lack a prominent brush border (microvilli are sparse). They are also less eosinophilic. The nuclei are apical or central, and the lumen is wider and more distinct than in the PCT.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Collecting Duct</strong><br>\n <strong>Epithelium:</strong> Simple cuboidal to simple columnar epithelium. As ducts get larger, the epithelium becomes taller.<br>\n <strong>Distinguishing Features:</strong> Cell boundaries are very distinct. Two cell types exist: <strong>Principal cells</strong> (light-staining, with a central nucleus and few organelles, involved in water and sodium balance) and <strong>Intercalated cells</strong> (darker-staining, with more mitochondria, involved in acid-base balance).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1b",
+    "topic": [
+      "Anatomy",
+      "Digestive System",
+      "Histology",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Describe the 4 types of Mucosa of the digestive tract.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protective (oral cavity, esophagus); Secretory (stomach); Absorptive (small intestine); Absorptive/Protective (large intestine)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Four Types of Mucosa in the Digestive Tract</h4>\n <p>The mucosa is the innermost layer of the digestive tract. It varies along the tract based on function. It always consists of three layers: epithelium, lamina propria (connective tissue), and muscularis mucosae (smooth muscle). The classification is based primarily on the epithelium type and function.</p>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Protective Mucosa</strong><br>\n <strong>Location:</strong> Oral cavity, pharynx, esophagus, and anal canal.<br>\n <strong>Epithelium:</strong> Stratified squamous epithelium (non-keratinized in most areas; keratinized in parts of the oral cavity subject to heavy wear). This multi-layered epithelium provides protection against mechanical abrasion from food.<br>\n <strong>Function:</strong> Protection.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Secretory Mucosa</strong><br>\n <strong>Location:</strong> Stomach.<br>\n <strong>Epithelium:</strong> Simple columnar epithelium. The entire surface is lined by mucous surface cells that secrete a thick, alkaline mucus. The epithelium invaginates to form gastric pits and glands.<br>\n <strong>Function:</strong> Secretion of mucus, enzymes (pepsinogen), acid (HCl), and hormones.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Absorptive Mucosa</strong><br>\n <strong>Location:</strong> Small intestine.<br>\n <strong>Epithelium:</strong> Simple columnar epithelium composed primarily of <strong>enterocytes</strong> (absorptive cells) with a brush border (microvilli) to maximize surface area. Goblet cells (for mucus) are also present but fewer than in the large intestine. The mucosa and submucosa form permanent circular folds (plicae circulares), and the mucosa has finger-like projections called villi.<br>\n <strong>Function:</strong> Absorption of nutrients.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Absorptive/Protective Mucosa</strong><br>\n <strong>Location:</strong> Large intestine.<br>\n <strong>Epithelium:</strong> Simple columnar epithelium. It is characterized by a very large number of <strong>goblet cells</strong> interspersed between absorptive cells. There are no villi. The epithelium invaginates to form long, straight tubular glands (crypts of Lieberkühn) rich in goblet cells.<br>\n <strong>Function:</strong> Absorption of water and electrolytes, and lubrication of feces for protection during passage.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1c",
+    "topic": [
+      "Anatomy",
+      "Circulatory System",
+      "Histology",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Differentiate the Micromorphological types of capillary.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Continuous: uninterrupted endothelium; Fenestrated: pores in endothelium; Sinusoidal: large gaps, incomplete basement membrane."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Micromorphological Types of Capillaries</h4>\n <p>Capillaries are the smallest blood vessels and are the site of exchange between blood and tissues. They are classified into three main types based on the continuity of their endothelial lining and basement membrane.</p>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Continuous Capillary</strong><br>\n <strong>Structure:</strong> The endothelium is a continuous, uninterrupted layer of endothelial cells held together by tight junctions. The basement membrane is also continuous. Small molecules like water, ions, and gases can pass through the endothelial cells or via small, uncoated vesicles (pinocytotic vesicles) that ferry material across.<br>\n <strong>Location:</strong> Most common type. Found in muscle tissue, connective tissue, lungs, exocrine glands, and nervous tissue (where they form the blood-brain barrier with very tight junctions).<br>\n <strong>Function:</strong> General exchange; restricts passage of large molecules.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Fenestrated Capillary</strong><br>\n <strong>Structure:</strong> The endothelial cells have circular pores called <strong>fenestrations</strong> (meaning \"windows\") that span the cytoplasm. These pores are often covered by a thin, non-membranous diaphragm (except in the kidney glomerulus). The basement membrane is continuous.<br>\n <strong>Location:</strong> Found in tissues involved in rapid filtration or absorption, such as the kidney glomerulus, endocrine glands, intestinal villi, and pancreatic islets.<br>\n <strong>Function:</strong> Allows for rapid exchange of larger volumes of fluids and small solutes.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Sinusoidal Capillary (Discontinuous)</strong><br>\n <strong>Structure:</strong> These have the largest diameter and a tortuous, irregular shape. The endothelial cells have large gaps between them, and the basement membrane is <strong>discontinuous or absent</strong>. This allows for the passage of large molecules and even cells.<br>\n <strong>Location:</strong> Found in the liver, spleen, and bone marrow. In the liver, they are associated with phagocytic Kupffer cells.<br>\n <strong>Function:</strong> Allows for maximal exchange, including the passage of proteins and blood cells. Essential for organs that modify blood or require close contact with plasma proteins.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Anatomy",
+      "Digestive System",
+      "Histology",
+      "Physiology"
+    ],
+    "Question": {
+      "content": "Describe the ultrastructure of the classical hepatic lobule.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The classical hepatic lobule is a hexagonal structure with a central vein, portal triads at corners, plates of hepatocytes, and sinusoids."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ultrastructure of the Classical Hepatic Lobule</h4>\n <p>The classical hepatic lobule is the traditional histological unit of the liver. It is a roughly hexagonal structure, approximately 1-2 mm in diameter, organized around a central vein.</p>\n \n <div style='text-align: center; margin: 20px 0; background: var(--preset-bg-color); padding: 10px; border-radius: 8px;'>\n    <strong style='color: var(--strongColor);'>Diagram: Classical Hepatic Lobule</strong><br>\n    <svg width=\"300\" height=\"260\" viewBox=\"0 0 300 260\" style=\"display: block; margin: 10px auto;\">\n        <!-- Hexagon outline -->\n        <polygon points=\"150,30 230,70 230,150 150,190 70,150 70,70\" fill=\"none\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <!-- Central vein -->\n        <circle cx=\"150\" cy=\"110\" r=\"15\" fill=\"#ffcccc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"135\" y=\"115\" fill=\"var(--bodyTextColor)\" font-size=\"10\">CV</text>\n        <!-- Portal triads at corners -->\n        <circle cx=\"150\" cy=\"30\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"140\" y=\"35\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <circle cx=\"230\" cy=\"70\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"220\" y=\"75\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <circle cx=\"230\" cy=\"150\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"220\" y=\"155\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <circle cx=\"150\" cy=\"190\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"140\" y=\"195\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <circle cx=\"70\" cy=\"150\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"60\" y=\"155\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <circle cx=\"70\" cy=\"70\" r=\"12\" fill=\"#ccffcc\" stroke=\"var(--strongColor)\" stroke-width=\"2\"/>\n        <text x=\"60\" y=\"75\" fill=\"var(--bodyTextColor)\" font-size=\"9\">PT</text>\n        <!-- Lines representing plates -->\n        <line x1=\"150\" y1=\"110\" x2=\"190\" y2=\"95\" stroke=\"var(--bodyTextColor)\" stroke-width=\"1\"/>\n        <line x1=\"150\" y1=\"110\" x2=\"190\" y2=\"125\" stroke=\"var(--bodyTextColor)\" stroke-width=\"1\"/>\n        <line x1=\"150\" y1=\"110\" x2=\"150\" y2=\"170\" stroke=\"var(--bodyTextColor)\" stroke-width=\"1\"/>\n        <text x=\"195\" y=\"80\" fill=\"var(--bodyTextColor)\" font-size=\"9\">Hepatocyte plates</text>\n    </svg>\n    <em style='color: var(--infoCl);'>Schematic of a lobule: CV = Central Vein, PT = Portal Triad (in reality at corners).</em>\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Central Vein</strong><br>\n At the center of the lobule is the central vein (or centrilobular vein). It is a thin-walled vessel that receives blood from the hepatic sinusoids and drains it into the hepatic veins.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Portal Triads (Portal Tracts)</strong><br>\n At the six corners of the hexagon are portal triads (also called portal canals). Each triad contains three key structures:\n <ul>\n <li><strong>Branch of the Hepatic Portal Vein:</strong> Large, thin-walled vessel bringing nutrient-rich but oxygen-poor blood from the digestive tract.</li>\n <li><strong>Branch of the Hepatic Artery:</strong> Small, thick-walled vessel bringing oxygen-rich blood.</li>\n <li><strong>Bile Ductule:</strong> Lined by simple cuboidal epithelium, carries bile away from the lobule.</li>\n </ul>\n Lymphatic vessels and nerves are also present but not part of the classic triad.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Hepatocytes</strong><br>\n The parenchymal cells of the liver. They are arranged in radiating, interconnected plates (or muralia) that are one cell thick. Their surfaces have two domains: the sinusoidal domain (facing the sinusoid) with microvilli, and the canalicular domain (forming the bile canaliculi).\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>4. Hepatic Sinusoids</strong><br>\n These are specialized, fenestrated capillaries that lie between the plates of hepatocytes. They carry blood from the portal vein and hepatic artery at the periphery towards the central vein. They are lined by fenestrated endothelial cells and lack a continuous basement membrane, allowing plasma direct contact with hepatocytes.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>5. Space of Disse (Perisinusoidal Space)</strong><br>\n The narrow space between the sinusoidal endothelium and the hepatocytes. It contains microvilli from the hepatocytes and plasma filtrate. Hepatic stellate cells (Ito cells), which store vitamin A, are also located here.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>6. Kupffer Cells</strong><br>\n Resident macrophages located within the sinusoidal lumen, attached to the endothelial lining. They are part of the mononuclear phagocyte system and remove old red blood cells, bacteria, and debris from the blood.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>7. Bile Canaliculi</strong><br>\n Tiny grooves or channels between adjacent hepatocytes, sealed by tight junctions. They form a network that collects bile secreted by hepatocytes and drains it towards the bile ductules in the portal triads.\n </div>\n \n <p><strong>Blood Flow Direction:</strong> From the portal triad (portal vein & hepatic artery) → sinusoids → central vein.<br>\n <strong>Bile Flow Direction:</strong> From the hepatocytes → bile canaliculi → bile ductule in the portal triad (opposite direction of blood flow).</p>\n</div>"
+    }
+  }
+  
+]
